@@ -1,4 +1,4 @@
-# taxAdda
+# taskSpace
 It has implementation of 3 APIs:
 - /api/createTaskList  - creates a Task List
 - /api/createTask      - creates a Task referring to a taskList
